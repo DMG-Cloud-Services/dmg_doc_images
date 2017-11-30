@@ -1,2 +1,2 @@
-# dmg_doc_images
+# dcs_doc_images
 contains images related to documentation
